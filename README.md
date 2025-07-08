@@ -15,7 +15,4 @@ https://marketplace.huaweicloud.com/hidden/contents/9b597be5-0407-4642-bbb5-e6c5
 https://marketplace.huaweicloud.com/hidden/contents/7e0e8012-ace6-4411-bece-1615d5d9216b#productid=OFFI1132211660972929024
 https://marketplace.huaweicloud.com/hidden/contents/7e0e8012-ace6-4411-bece-1615d5d9216b#productid=OFFI1132211660972929024
 https://marketplace.huaweicloud.com/hidden/contents/1c35798c-5c39-4e02-b290-46dd70a9357f#productid=OFFI1136490488264220672
-m_Qe8R4r@w%MvMD6vWy+
-流程流向：
-主线：需求发起 → 部署验证 → 镜像制作 → 材料准备 → 安全扫描 → 商品上架 → 验收 → 发布 → 下架 → 结束。
-并行维护：git社区维护（镜像制作后同步启动）、迭代维护和场景化流程（发布后同步启动），用平行四边形突出 “持续进行” 的特性。
+
