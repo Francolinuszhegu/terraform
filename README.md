@@ -1,5 +1,5 @@
 # terraform
-0zBaJzbaQurXMV1kiD8GUD53uBr6d6Nze9Dgq_2mOnNDhXbhPp-j0fZExEBbP_F49ULRR-Ms9kn5RE64vnyBbA
+docker login -u ap-southeast-4@HST3UJ7MELA88MK1VP5P -p 634f898102fb84734b9e44e1b58a608321dbf20f44dd1e223e57871cffaff092 swr.ap-southeast-4.myhuaweicloud.com
 
 https://marketplace.huaweicloud.com/hidden/contents/9e9217e1-5c9d-4026-96bd-b3395d0c9aa8#productid=OFFI1131118959554052096
 https://marketplace.huaweicloud.com/hidden/contents/7ff1ebb2-bd6a-4b3a-aaaf-df09d07d0296#productid=OFFI1138678191546261504
